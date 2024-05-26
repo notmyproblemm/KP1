@@ -1,0 +1,72 @@
+Statistics:
+Dispersion: 1
+Average error: 0.002365439800948442
+Max error: 0.03873021886300958
+Min error: 2.612701709555183e-07
+Average zeroes wrong: 0.0
+Max zeroes wrong: 0.0
+
+Statistics:
+Dispersion: 2
+Average error: 0.009245648463398036
+Max error: 0.4596093885894272
+Min error: 3.263066313368646e-07
+Average zeroes wrong: 0.024
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 3
+Average error: 0.012990260290637292
+Max error: 0.7653668647301795
+Min error: 9.890181287392577e-08
+Average zeroes wrong: 0.02
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 4
+Average error: 0.021934373982201664
+Max error: 0.7656132782380496
+Min error: 2.71660398021292e-07
+Average zeroes wrong: 0.032
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 5
+Average error: 0.023218898990004185
+Max error: 0.7653668647301795
+Min error: 1.0597653836511943e-05
+Average zeroes wrong: 0.027
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 6
+Average error: 0.03199158875576612
+Max error: 0.7655303108742298
+Min error: 3.859242578929912e-06
+Average zeroes wrong: 0.034
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 7
+Average error: 0.04356789795396563
+Max error: 0.7653668647301795
+Min error: 4.425541933171295e-06
+Average zeroes wrong: 0.047
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 8
+Average error: 0.041209984995179694
+Max error: 0.7653668647301797
+Min error: 7.354066777771795e-07
+Average zeroes wrong: 0.047
+Max zeroes wrong: 1.0
+
+Statistics:
+Dispersion: 9
+Average error: 0.06084008865807634
+Max error: 0.9439803873721186
+Min error: 8.041901073015654e-06
+Average zeroes wrong: 0.081
+Max zeroes wrong: 1.0
+
